@@ -35,7 +35,7 @@ A collection of data-related projects that I have completed to showcase what I h
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------|
 | [E-book startup](https://github.com/DSKunth/SQL-Project-Ebook-Startup)                | Provide answers to business questions  to help the startup company  create a product value proposition                                                                                                 | Data exploration | August 2022    |
 | [Deforestation Exploration](https://github.com/DSKunth/Deforestation-Exploration)     | Create views, simple and complex SQL queries  to answer questions from the fictitious ForestQuery management  about the deforestation’s global situation,  regional outlook, and country-level details | Data exploration | March 2022     |
-| [SQL Interview Questions on Data Lemur](https://datalemur.com/questions?category=SQL) | Solutions to SQL interview questions at each level of difficulty                                                                                                                                       |                  | in progress    |
+| [SQL Interview Questions on Data Lemur](https://github.com/DSKunth/SQL-Interview-Questions) | Solutions to SQL interview questions at each level of difficulty                                                                                                                                       |                  | in progress    |
 
 <a id='machinelearning'></a>
 ## Machine Learning
