@@ -1,5 +1,5 @@
 # Project-Portfolio
-A collection of data-related projects that I have completed to showcase what I have learned and how I applied the skills I acquired throughout my learning journey.
+To demonstrate what I have learned and how I have applied the skills I acquired throughout my learning journey, I have completed a series of data-related projects and challenges.
 
 - [Python](#python)
 - [Data Engineering](#dataengineering)
