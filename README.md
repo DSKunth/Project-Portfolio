@@ -1,11 +1,11 @@
 # Project-Portfolio
 I have completed a series of data-related projects and challenges to demonstrate what I have learned and how I have applied the skills I acquired throughout my learning journey.
 
-- [Python](#python)
+- [Python for Data Science](#python)
 - [Data Engineering](#dataengineering)
 - [SQL](#sql)
 - [Machine Learning](#machinelearning)
-- [Tableau](#tableau)
+- [Business Intelligence(Tableau)](#tableau)
 
 <a id='python'></a>
 ## Python for Data Science
