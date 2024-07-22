@@ -5,7 +5,7 @@ I have completed a series of data-related projects and challenges to demonstrate
 - [Data Engineering](#dataengineering)
 - [SQL](#sql)
 - [Machine Learning](#machinelearning)
-- [Business Intelligence(Tableau)](#tableau)
+- [Business Intelligence (Tableau)](#tableau)
 
 <a id='python'></a>
 ## Python for Data Science
